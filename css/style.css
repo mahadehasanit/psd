@@ -1,0 +1,185 @@
+#header-section{
+	background: #87509c;
+	min-height: 500px;
+}
+
+.navbar-nav > li > a:hover {
+	background-color:#643a79;
+	border-radius: 5px;
+}
+.nav>li>a {
+	position: relative;
+	display: block;
+	padding: 10px 15px;
+	color: #ffffff;
+	font-size: 16px;
+	}
+
+.active {
+	background: transparent;
+	border-radius: 5px;
+}
+ .navbar-brand {
+	padding: 5px 5px;
+}
+.carousel-inner > .item {
+	padding: 12em;
+}
+.btn-style{
+		padding: 20px 40px;
+	background-color: #eb7d4b;
+	margin-top: 30px;
+}
+.btn-style:hover{
+		
+	background-color: #fff;
+	color:#eb7d4b;
+	
+}
+.service-section{
+text-align: center;
+background-color: #17c2a4;
+color: white;padding: 40px;
+}
+.service-section img{
+	margin: 0 auto;
+	padding: 40px;
+}
+.header h1{
+	padding: 20px;
+}
+.header p{
+		max-width: 400px;
+	margin: 0 auto;
+}
+#tem-section{
+	background-color: #e7f1f8;
+	text-align: center;
+	padding: 20px;
+}
+#tem-section .round{
+	    width: 200px;
+    height: 190px;
+    border-radius: 100px;
+}
+#tem-section p{
+	padding-bottom: 20px;
+}
+.skill-section{
+	background-color: #ffffff;
+	color:black;
+	padding: 2em 0;
+}
+.skill-img {
+	position: relative;
+}
+.skill-img img{
+	margin: 0 auto;
+}
+.skill-img span{
+	position: absolute;
+	font-size: 20px;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+}
+#portfolio-section{
+background-color:#ffdd99;
+	color:black;
+	padding: 2em 0;	
+}
+.portfolio{
+	padding: 2em;
+}
+.portfolio li{
+	background-color: #ebc985;
+	padding: 6px 30px;
+	border-radius: 2px;
+}
+.portfolio li a{
+	text-decoration: none;
+	color: #fff;
+
+}
+.portfolio li:hover{
+	background-color: black;
+
+}
+.load{
+	box-shadow: 
+;
+	background-color: #17c2a4;
+	border: none;
+	text-transform: uppercase;
+	box-shadow: 2%;
+}
+.about-section{
+	background-color: rgb(249, 249, 249);
+	color:black;
+	padding: 2em 0;
+}
+.padding{
+	padding-bottom: 4em;
+}
+}
+.about-section h3{}
+.about-section h6{
+	    padding-bottom: 5em;
+	    color: blue;
+}
+.about-img .border{
+	
+border-radius: 100px;
+	
+height: 120px;
+	
+width: 150px;
+}
+ .contect-section{
+ 	background-color:black;
+	color:white;
+	padding: 2em 0;	
+ }
+
+.get-intouch{
+	float: none;
+	margin: 0 auto;
+}
+.form-control {
+   
+    color:#fff;
+    background-color: rgba(0, 0, 0, 0.16);
+    border: 1px solid #ccc;
+    border-radius:0px;
+    }
+.contect-section .form-group{}
+.contect-section .btn-custom{
+    padding: 15px 70px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    margin-top: 2em;
+    border: 1px solid #fff;
+}
+.contect-section .btn-custom:hover {
+	background-color: #fff;
+	color: black;
+}
+.footer-section{
+	    background-color: rgba(12, 11, 11, 0.78);
+}
+.nav-pills{
+    text-align: center;
+}
+.nav-pills  li{
+    float: none;
+    display: inline-block;
+}
+.nav-pills li a{
+	color: #fff;
+    text-transform: uppercase;
+}
+.nav-pills li a:hover{
+	color: #30bae7;
+	background: transparent;
+
+}
